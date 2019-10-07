@@ -47,20 +47,20 @@
 `深入了解資料，從簡化後的離散變數下手`
 19. [Subplots](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_019_HW.ipynb)
 `探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前`
-20. Heatmap & Grid-plot
+20. [Heatmap & Grid-plot](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_020_HW.ipynb)
 `探索性資料分析 - 資料視覺化 - 熱像圖 / 格狀圖 1. 熱圖：以直觀的方式檢視變數間的相關性 2. 格圖：繪製變數間的散佈圖及分布`
-21. 模型初體驗 Logistic Regression
+21. [模型初體驗 Logistic Regression](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_021_HW.png)
 `在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣`
 
 ## 3. 資料科學特徵工程技術
 > 使用統計或領域知識，以各種組合調整方式，生成新特徵以提升模型預測力。
-22. 特徵工程簡介
+22. [特徵工程簡介](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_022_HW.ipynb)
 `介紹機器學習完整步驟中，特徵工程的位置以及流程架構`
-23. 數值型特徵 - 去除偏態
+23. [數值型特徵 - 去除偏態](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_023_HW.ipynb)
 `數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差`
-24. 類別型特徵 - 基礎處理
+24. [類別型特徵 - 基礎處理](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_024_HW.ipynb)
 `介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼`
-25. 類別型特徵 - 均值編碼
+25. [類別型特徵 - 均值編碼](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_025_HW.ipynb)
 `類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代`
 26. 類別型特徵 - 其他進階處理
 `類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵`
