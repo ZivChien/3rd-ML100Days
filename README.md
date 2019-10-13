@@ -1,4 +1,3 @@
-# [機器學習百日馬拉松](https://ai100-3.cupoy.com)
 ![roadmap](https://ai100-3.cupoy.com/images/learnWithCoach.png)
 
 * [排名賽](https://ai100-3.cupoy.com/ranking/homeworkrank)
@@ -62,30 +61,30 @@
 `介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼`
 25. [類別型特徵 - 均值編碼](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_025_HW.ipynb)
 `類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代`
-26. 類別型特徵 - 其他進階處理
+26. [類別型特徵 - 其他進階處理](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_026_HW.ipynb)
 `類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵`
-27. 時間型特徵
+27. [時間型特徵](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_027_HW.ipynb)
 `時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數`
-28. 特徵組合 - 數值與數值組合
+28. [特徵組合 - 數值與數值組合](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_028_HW.ipynb)
 `特徵組合的基礎 : 以四則運算的各種方式，組合成更具預測力的特徵`
-29. 特徵組合 - 類別與數值組合
+29. [特徵組合 - 類別與數值組合](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_029_HW.ipynb)
 `類別型對數值型特徵可以做群聚編碼，與目標均值編碼類似，但用途不同`
-30. 特徵選擇
+30. [特徵選擇](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_030_HW.ipynb)
 `介紹常見的幾種特徵篩選方式`
-31. 特徵評估
+31. [特徵評估](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_031_HW.ipynb)
 `介紹並比較兩種重要的特徵評估方式，協助檢測特徵的重要性`
-32. 分類型特徵優化 - 葉編碼
+32. [分類型特徵優化 - 葉編碼](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_032_HW.ipynb)
 `葉編碼 : 適用於分類問題的樹狀預估模型改良`
 
 ## 4. 機器學習基礎模型建立
 > 學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
-33. 機器如何學習?
+33. [機器如何學習?](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_033_HW.ipynb)
 `了解機器學習的定義，過擬合 (Overfit) 是甚麼，該如何解決`
-34. 訓練/測試集切分的概念
+34. [訓練/測試集切分的概念](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_034_HW.ipynb)
 `為何要做訓練/測試集切分？有什麼切分的方法？`
-35. regression vs. classification
+35. [regression vs. classification](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_035_HW.ipynb)
 `回歸問題與分類問題的區別？如何定義專案的目標`
-36. 評估指標選定/evaluation metrics
+36. [評估指標選定/evaluation metrics](https://github.com/ZivChien/3rd-ML100Days/blob/master/homework/Day_036_HW.ipynb)
 `專案該如何選擇評估指標？常用指標有哪些？`
 37. regression model 介紹 - 線性迴歸/羅吉斯回歸
 `線性迴歸/羅吉斯回歸模型的理論基礎與使用時的注意事項`
