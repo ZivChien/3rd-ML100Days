@@ -1,6 +1,6 @@
 ![roadmap](https://ai100-3.cupoy.com/images/learnWithCoach.png)
 
-* [排名賽](https://ai100-3.cupoy.com/ranking/homeworkrank) ranking 45/1.2k
+* [排名賽](https://ai100-3.cupoy.com/ranking/homeworkrank) top 5%
 * [個人主頁](https://ai100-3.cupoy.com/participator/84F13837/questions) 
 
 ## 1. 機器學習概論
